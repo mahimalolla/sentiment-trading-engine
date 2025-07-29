@@ -1,1 +1,1 @@
-# sentiment-trading-engine
+# Sentiment Trading Engine
