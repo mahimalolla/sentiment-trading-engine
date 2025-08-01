@@ -3,3 +3,18 @@ deal w me if you can
 
 
 fuck outta here
+
+
+Inputs
+Ticker(s)
+Starting Money
+Date
+
+Outputs
+Investment amount
+Investment decision - short/long
+
+Tasks:
+-> Yahoo entertainment is main news source as of now. Try using yahoo finance as source - more relevant for sentiment analysis of stock(s)
+-> From yfinance library pull price/earnings ratio (not AUM!). How much we money we invest should be based on a combination of p/e ratio and pos/neg ratio
+
