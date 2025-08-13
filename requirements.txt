@@ -1,0 +1,8 @@
+requests
+python-dotenv
+feedparser
+pandas
+matplotlib
+reportlab
+nltk
+yfinance
